@@ -3,6 +3,7 @@ This simple example shows how to do http redirections using [Agito].
 ### Test
 
 ```bash
+$ npm install
 $ node index.js
 ```
 
