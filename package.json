@@ -1,0 +1,26 @@
+{
+  "name": "example",
+  "version": "0.0.0",
+  "description": "This simple example shows how to do http redirections using [Agito].",
+  "main": "index.js",
+  "dependencies": {
+    "agito": "0.0.2",
+    "agito-http-protocol": "^0.0.1",
+    "agito-http-redirection": "^0.0.1",
+    "agito-json-loader": "^0.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/agitojs/example.git"
+  },
+  "author": "Aymeric Beaumet <aymeric@beaumet.me> (http://beaumet.me/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/agitojs/example/issues"
+  },
+  "homepage": "https://github.com/agitojs/example"
+}
